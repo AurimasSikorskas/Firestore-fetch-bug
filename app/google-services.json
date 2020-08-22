@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "949129910125",
+    "firebase_url": "https://firestore-fetch-bug.firebaseio.com",
+    "project_id": "firestore-fetch-bug",
+    "storage_bucket": "firestore-fetch-bug.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949129910125:android:e344d0207625015b78ec64",
+        "android_client_info": {
+          "package_name": "app.studio.sikauris.firestore_fetch_bug"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "949129910125-faeqmga6n63hc9q5kfg7tk5ovkt0kpqe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCv5LGFqWaAIf2R8OhzC0lUNswJDXx4cfA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "949129910125-faeqmga6n63hc9q5kfg7tk5ovkt0kpqe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
